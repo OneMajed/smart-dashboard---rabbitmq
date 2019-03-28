@@ -1,0 +1,14 @@
+Dashboard
+    Front-End
+    JS
+    Socket.IO
+Node
+    Express
+        File structure
+    Mongodb
+        Mongoose
+    Socket.IO
+    RabbitMQ
+Arduino
+    Sensors
+    Actions
